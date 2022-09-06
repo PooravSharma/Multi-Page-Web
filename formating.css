@@ -1,3 +1,6 @@
+:root{
+	background-color: #FFD700
+}
 
 h1 {
   color: black;
@@ -41,7 +44,19 @@ li a:hover {
 #groupOne{
 	background-color: rgb(255, 122, 89); 
 }
-#indexBody{
-	background-color: #FFD700
+#groupTwo{
+	background-color: #7FFF00; 
 }
-	
+#groupThree{
+	background-color: #8A2BE2; 
+}
+#groupFour{
+	background-color: black; 
+	h2 color: white;
+}
+#indexBody{
+	background-color: red;
+}
+#contactInfo {
+	background-color: #FFA07A;
+}
