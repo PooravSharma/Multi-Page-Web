@@ -42,7 +42,7 @@ li a:hover {
   background-color: #111;
 }
 #groupOne{
-	background-color: rgb(255, 122, 89); 
+	background-color: #FF4500; 
 }
 #groupTwo{
 	background-color: #7FFF00; 
@@ -59,4 +59,23 @@ li a:hover {
 }
 #contactInfo {
 	background-color: #FFA07A;
+}
+#accordion{
+	background-color: black;
+	color: black;
+	font-size: 20px;
+}
+.panel-heading{
+	backgroup-color: black;
+	color: #FFA07A;
+}
+.collapse{
+	font-size:20px;
+	font-weight: bold;
+}
+.panel-title{
+	font-size: 20px;	
+}
+.header{
+	text-align: center;
 }
