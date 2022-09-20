@@ -41,25 +41,9 @@ li a {
 li a:hover {
   background-color: #111;
 }
-#groupOne{
-	background-color: #FF4500; 
-}
-#groupTwo{
-	background-color: #7FFF00; 
-}
-#groupThree{
-	background-color: #8A2BE2; 
-}
-#groupFour{
-	background-color: black; 
-	h2 color: white;
-}
-#indexBody{
+body {
 	background-color: red;
-}
-#contactInfo {
-	background-color: #FFA07A;
-}
+
 #accordion{
 	background-color: black;
 	color: black;
